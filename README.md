@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-     <a href="https://github.com/ben-n93/geojson-shave/actions/workflows/tests.yml"><img src="https://github.com/ben-n93/geojson-shave/actions/workflows/tests.yml/badge.svg"                 alt="Testing"></a>
-     <a href="https://github.com/ben-n93/geojson-shave/blob/main/LICENSE"><img src="https://img.shields.io/pypi/l/geojson-shave" alt="License"></a>
-    <a href="https://codecov.io/gh/ben-n93/geojson-shave" ><img src="https://codecov.io/gh/ben-n93/geojson-shave/graph/badge.svg?token=XUMK0D4J9X"/></a>
+     <a href="https://github.com/ben-nour/geojson-shave/actions/workflows/tests.yml"><img src="https://github.com/ben-nour/geojson-shave/actions/workflows/tests.yml/badge.svg"                 alt="Testing"></a>
+     <a href="https://github.com/ben-nour/geojson-shave/blob/main/LICENSE"><img src="https://img.shields.io/pypi/l/geojson-shave" alt="License"></a>
+    <a href="https://codecov.io/gh/ben-nour/geojson-shave" ><img src="https://codecov.io/gh/ben-nour/geojson-shave/graph/badge.svg?token=XUMK0D4J9X"/></a>
     <a href="https://pypi.org/project/geojson-shave/"><img src="https://img.shields.io/pypi/pyversions/geojson-shave" alt="versions"></a>
     <a href="https://github.com/tmcw/awesome-geojson"><img src="https://awesome.re/mentioned-badge.svg" alt="awesome list badge"></a>
 </p>
