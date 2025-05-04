@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="https://pypi.python.org">
-        <img src="https://ben-nour.com/images/geojson-shave.png" alt="GeoJSON-shave" style="width: 60%; height: auto;"/>
+        <img src="https://ben-nour.com/images/geojson_shave.png" alt="GeoJSON-shave" style="width: 60%; height: auto;"/>
     </a>
 </p>
 
