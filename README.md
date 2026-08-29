@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="geojson_shave" src="https://github.com/user-attachments/assets/64f10ae3-72ba-4163-a6dd-977feb0c73e4" style="width: 60%; height: auto;"/>/>
+<img alt="geojson_shave" src="https://github.com/user-attachments/assets/64f10ae3-72ba-4163-a6dd-977feb0c73e4" style="width: 60%; height: auto;"/>
 </p>
 
 
